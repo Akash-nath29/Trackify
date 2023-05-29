@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <meta charset='utf-8' content='width:device-width, initial-scale:1.0'/>
+
+        <title>Trackify</title>
+
+        <link rel="stylesheet" href="{{url_for('static', filename='style.css')}}"/>
+
+    </head>
+
+    <body>
+
+        <div class="container">
+
+            <form class="form" action="/track" method="POST" accept-charset="utf-8">
+
+                <input type="text" name="phoneNumber" id="phoneNumber" value="" placeholder="Enter Phone Number" autocomplete="off"/>
+
+                <i class="fa fa-question-circle" onclick="showDetails()"></i>
+
+                <input type="submit" name="submit" id="submit" value="Submit" />
+
+            </form>
+
+            <div class="output">
+
+                <h1>{{phnumber}}</h1>
+
+                <h1>{{location}}</h1>
+
+                <h3>{{something}}</h3>
+
+                <h3>{{latitude}}° N</h3>
+
+                <h3>{{longitude}}° S</h3>
+
+            </div>
+
+        </div>
+
+        <script src="https://kit.fontawesome.com/dabeb5f8c7.js" crossorigin="anonymous"></script>
+
+        <script type="text/javascript" charset="utf-8">
+
+            function showDetails() {
+
+                alert("Enter Phone Number with Country code without any space in following manner- +countryCodePhoneNumber");
+
+            }
+
+        </script>
+
+    </body>
+
+</html>
