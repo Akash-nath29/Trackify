@@ -66,7 +66,7 @@ To use Trackify, follow these steps:
 
 ## Usage
 
-1. Enter the phone number you want to track when prompted.
+1. Enter the phone number with Country code without any gap between (eg. +countrycodePhoneNumber) you want to track when prompted.
 
 2. Trackify will scrape the data associated with the provided phone number.
 
