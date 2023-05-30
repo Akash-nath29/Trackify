@@ -6,13 +6,9 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/Akash-nath29/Trackify)](https://github.com/Akash-nath29/Trackify/stargazers)
 
-![Trackify Logo](https://github.com/Akash-nath29/Trackify/blob/main/logo.png)
-
 <h2>Introduction</h2>
 
 Trackify is a powerful and versatile program that allows you to scrape data from a SIM card using just the phone number. With Trackify, you can gather valuable information associated with a phone number, such as the carrier, location, and other relevant details. This tool provides an efficient way to explore and analyze SIM card data.
-
-![Trackify Screenshot](https://github.com/Akash-nath29/Trackify/blob/main/screenshot.png)
 
 ## Educational Use Only
 
