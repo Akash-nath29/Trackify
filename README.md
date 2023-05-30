@@ -52,7 +52,7 @@ To use Trackify, follow these steps:
 
    ```bash
 
-   pip install >> requirements.txt
+   pip install -r requirements.txt
 
    ```
 
