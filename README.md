@@ -90,7 +90,11 @@ If you have any questions or concerns, feel free to reach out:
 
 - **Email**: [anath5440@gmail.com](mailto:anath5440@gmail.com)
 
-- **LinkedIn**: [Akash Nath](https://www.linkedin.com/in/akashnath29/)
+- **Instagram**: [@akash_nath29](https://www.instagram.com/invites/contact/?i=121yixtsyifc8&utm_content=hblizqj)
+
+- **Facebook**: [Akash Nath](https://www.facebook.com/profile.php?id=100086780768687)
+
+- **Twitter**: [@anath5440](https://twitter.com/anath5440?t=qgwzUie9kfQVU0T9VSQn1Q&s=09)
 
 ---
 
